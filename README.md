@@ -1,6 +1,6 @@
 
 -->
- 👋 Hi, I'm Shivani Gour 
+ 👋  I'm Shivani Gour 
 
 🌟 IT Student | 💻 Aspiring Full-Stack Developer  
 🚀 Skills
@@ -9,7 +9,7 @@
 -  Java ![Java](https://img.icons8.com/color/25/000000/java-coffee-cup-logo.png)  
 -  JavaScript ![JavaScript](https://img.icons8.com/color/25/000000/javascript.png)  
 - React.js ![React](https://img.icons8.com/color/25/000000/react-native.png)
-- 
+  
  📌 About Me  
 ✨ Currently pursuing IT in college.  
 🚀 Skilled in **HTML, CSS, Java, JavaScript, and React.js.  
