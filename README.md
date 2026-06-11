@@ -24,7 +24,7 @@
 
 🌐 Portfolio: https://pportfolio-3tt2.vercel.app
 
-📧 Email: [shivani.gour@example.com](mailto:shivani.gour@example.com)
+📧 Email: gourshivani2004@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/shivani--gour
 
