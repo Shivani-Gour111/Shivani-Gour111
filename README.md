@@ -23,6 +23,9 @@
 ## 🌐 Connect With Me
 
 🌐 Portfolio: https://portfolio-4ie2.vercel.app
+
 📧 Email: gourshivani2004@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/shivani--gour
+
 🖥️ GitHub: https://github.com/shivani123
